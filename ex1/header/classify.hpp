@@ -2,6 +2,7 @@
 #include <vector>
 #include <iostream>
 #include <typeinfo>
+#include <string>
 #ifndef  __CLASSIFY__
 #define __CLASSIFY__
 #endif

@@ -22,6 +22,7 @@ int main(){
         std::cout << "Enter 3: To show information officers\n";
         std::cout << "Enter 4: To exit\n";
         std::cout << "Your Option: ";
+        std::cin.ignore();
         std::cin >> option;
         switch(option){
             case 1:
@@ -36,9 +37,9 @@ int main(){
                     case 'e':
                         std::cout << "\n------------------------------\n";
                         std::cout << "Enter name: ";
-                        std::cin >> name;
+                        std::cin.ignore();
+                        std::getline(std::cin, name);
                         std::cout << "Enter age: ";
-                        int age;
                         std::cin >> age;
                         while(age<0 && age>55){
                             std::cout << "\nThe age should be larger than 0 and smaller than 55\n";
@@ -46,28 +47,34 @@ int main(){
                             std::cin >> age;
                         } 
                         std::cout << "Enter gender: ";
-                        std::cin >> type_gender;
+                        std::cin.ignore();
+                        std::getline(std::cin, type_gender);
                         std::cout << "Enter address: ";
-                        std::cin  >> address;
+                        std::cin.ignore();
+                        std::getline(std::cin, address);
                         std::cout << "Enter major: ";
-                        std::cin >> major;
+                        std::cin.ignore();
+                        std::getline(std::cin, address);
                         ql.addOffice(new KySu(name,type_gender,age,address,major));
                         break;
                     case 'w':
                         std::cout << "\n------------------------------\n";
                         std::cout << "Enter name: ";
-                        std::cin >> name;
+                        std::cin.ignore();
+                        std::getline(std::cin, name);
                         std::cout << "Enter age: ";
                         std::cin >> age;
-                        while(age<0 && age>55){
+                        while (age < 0 && age>55) {
                             std::cout << "\nThe age should be larger than 0 and smaller than 55\n";
                             std::cout << "Enter age: ";
                             std::cin >> age;
-                        } 
+                        }
                         std::cout << "Enter gender: ";
-                        std::cin >> type_gender;
+                        std::cin.ignore();
+                        std::getline(std::cin, type_gender);
                         std::cout << "Enter address: ";
-                        std::cin  >> address;
+                        std::cin.ignore();
+                        std::getline(std::cin, address);
                         std::cout << "Enter level: ";
                         int level;
                         std::cin >> level;
@@ -76,20 +83,24 @@ int main(){
                     case 's':
                         std::cout << "\n------------------------------\n";
                         std::cout << "Enter name: ";
-                        std::cin >> name;
+                        std::cin.ignore();
+                        std::getline(std::cin, name);
                         std::cout << "Enter age: ";
                         std::cin >> age;
-                        while(age<0 && age>55){
+                        while (age < 0 && age>55) {
                             std::cout << "\nThe age should be larger than 0 and smaller than 55\n";
                             std::cout << "Enter age: ";
                             std::cin >> age;
-                        } 
+                        }
                         std::cout << "Enter gender: ";
-                        std::cin >> type_gender;
+                        std::cin.ignore();
+                        std::getline(std::cin, type_gender);
                         std::cout << "Enter address: ";
-                        std::cin  >> address;
+                        std::cin.ignore();
+                        std::getline(std::cin, address);
                         std::cout << "Enter Job: ";
-                        std::cin  >> type_job;
+                        std::cin.ignore();
+                        std::getline(std::cin, address);
                         ql.addOffice(new NhanVien(name,type_gender,age,address,type_job));
                         break;
                 }
@@ -97,7 +108,8 @@ int main(){
             case 2:
                 std::cout << "\n--------------------------------------\n";
                 std::cout << "Enter name to search: ";
-                std::cin >> name;
+                std::cin.ignore();
+                std::getline(std::cin, name);
                 ql.displayOfficer(ql.searchOfficer(name));
                 break;
 
@@ -109,7 +121,7 @@ int main(){
             case 4:
                 std::cout <<"\n--------------------------------------\n";
                 std::cout << "Exit\n";
-                return 0; 
+                return 0;
         }
     }
 }

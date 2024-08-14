@@ -13,4 +13,9 @@ class QLCB{
         void displayOfficer();
         /*Display 1 officer in list*/
         void displayOfficer(CanBo *instance);
+        ~QLCB() {
+            for (int i = 0; i < officer_list.size(); i++) {
+                delete(officer_list[i]);
+            }
+        }
 };

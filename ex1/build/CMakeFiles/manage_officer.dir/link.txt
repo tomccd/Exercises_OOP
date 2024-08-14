@@ -1,2 +1,0 @@
-/usr/bin/ar qc libmanage_officer.a CMakeFiles/manage_officer.dir/src/manage_officer.cpp.o
-/usr/bin/ranlib libmanage_officer.a

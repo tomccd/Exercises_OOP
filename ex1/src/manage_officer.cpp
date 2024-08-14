@@ -8,7 +8,7 @@ void QLCB::addOffice(CanBo *cb){
 /*Definition of searchOfficer method*/
 CanBo *QLCB::searchOfficer(std::string name){
     if(size(officer_list) !=0){
-        for(int i=0;i<sizeof(officer_list);i++){
+        for(int i=0;i<officer_list.size();i++){
             if(officer_list[i]->name == name){
                 return officer_list[i];
             }

@@ -22,7 +22,6 @@ int main(){
         std::cout << "Enter 3: To show information officers\n";
         std::cout << "Enter 4: To exit\n";
         std::cout << "Your Option: ";
-        std::cin.ignore();
         std::cin >> option;
         switch(option){
             case 1:
@@ -50,11 +49,9 @@ int main(){
                         std::cin.ignore();
                         std::getline(std::cin, type_gender);
                         std::cout << "Enter address: ";
-                        std::cin.ignore();
                         std::getline(std::cin, address);
                         std::cout << "Enter major: ";
-                        std::cin.ignore();
-                        std::getline(std::cin, address);
+                        std::getline(std::cin, major);
                         ql.addOffice(new KySu(name,type_gender,age,address,major));
                         break;
                     case 'w':
@@ -73,7 +70,6 @@ int main(){
                         std::cin.ignore();
                         std::getline(std::cin, type_gender);
                         std::cout << "Enter address: ";
-                        std::cin.ignore();
                         std::getline(std::cin, address);
                         std::cout << "Enter level: ";
                         int level;
@@ -96,11 +92,9 @@ int main(){
                         std::cin.ignore();
                         std::getline(std::cin, type_gender);
                         std::cout << "Enter address: ";
-                        std::cin.ignore();
                         std::getline(std::cin, address);
                         std::cout << "Enter Job: ";
-                        std::cin.ignore();
-                        std::getline(std::cin, address);
+                        std::getline(std::cin, type_job);
                         ql.addOffice(new NhanVien(name,type_gender,age,address,type_job));
                         break;
                 }

@@ -1,0 +1,4 @@
+/home/tomccd/Documents/Code/C++/exercise/ex1/build/CMakeFiles/main.dir
+/home/tomccd/Documents/Code/C++/exercise/ex1/build/CMakeFiles/manage_officer.dir
+/home/tomccd/Documents/Code/C++/exercise/ex1/build/CMakeFiles/edit_cache.dir
+/home/tomccd/Documents/Code/C++/exercise/ex1/build/CMakeFiles/rebuild_cache.dir

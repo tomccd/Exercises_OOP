@@ -20,6 +20,7 @@ class CanBo{
             this->age = _age;
             this->address = _address;
         }
+        virtual void display() = 0;
         virtual ~CanBo(){
 
         }
@@ -34,6 +35,9 @@ class CongNhan:public CanBo{
             _level = _level%10;
             this->level = _level;
         }
+        void display() {
+            std::cout << "Name : " << this->name << " | " << "Age : " << this->age << " | " << "Gender : " << this->gender << " | " << "Address : " << this->address << " | " << "Worker Level : " << this->level << std::endl;
+        }
         ~CongNhan(){
 
         }
@@ -46,6 +50,9 @@ class KySu:public CanBo{
         KySu(std::string _name, std::string _gender, short _age, std::string _address,std::string _major):CanBo(_name,_gender,_age,_address){
             this->major = _major;
         }
+        void display() {
+            std::cout << "Name : " << this->name << " | " << "Age : " << this->age << " | " << "Gender: " << this->gender << " | " << "Address: " << this->address << " | " << "Major: " << this->major << std::endl;
+        }
         ~KySu(){
 
         }
@@ -57,6 +64,9 @@ class NhanVien:public CanBo{
         std::string typeJob;
         NhanVien(std::string _name, std::string _gender, short _age, std::string _address,std::string _typeJob):CanBo(_name,_gender,_age,_address){
             this->typeJob = _typeJob;
+        }
+        void display() {
+            std::cout << "Name: " << this->name << " | " << "Age: " << this->age << " | " << "Gender: " << this->gender << " | " << "Address: " << this->address << " | " << "Type Job: " << this->typeJob << std::endl;
         }
         ~NhanVien(){
 

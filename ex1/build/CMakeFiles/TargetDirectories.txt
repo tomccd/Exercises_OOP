@@ -1,4 +1,4 @@
-/home/tomccd/Documents/Code/C++/exercise/ex1/build/CMakeFiles/main.dir
-/home/tomccd/Documents/Code/C++/exercise/ex1/build/CMakeFiles/manage_officer.dir
-/home/tomccd/Documents/Code/C++/exercise/ex1/build/CMakeFiles/edit_cache.dir
-/home/tomccd/Documents/Code/C++/exercise/ex1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex1/build/CMakeFiles/main.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex1/build/CMakeFiles/manage_officer.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex1/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex1/build/CMakeFiles/ZERO_CHECK.dir

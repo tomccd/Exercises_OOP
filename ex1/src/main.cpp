@@ -13,6 +13,7 @@ int main(){
     std::string address;
     std::string major;
     std::string type_job;
+    CanBo* instance;
     while(1){
         std::cout << "\n------------------------------\n";
         std::cout << "Application Manager Officer\n";
@@ -74,7 +75,8 @@ int main(){
                         std::cout << "Enter level: ";
                         int level;
                         std::cin >> level;
-                        ql.addOffice(new CongNhan(name,type_gender,age,address,level));
+                        instance = new CongNhan(name, type_gender, age, address, level);
+                        ql.addOffice(instance);
                         break;
                     case 's':
                         std::cout << "\n------------------------------\n";

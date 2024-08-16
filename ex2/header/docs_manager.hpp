@@ -16,4 +16,9 @@ class Library_Manager {
 		void displayDocument();
 		/*Display once*/
 		void displayDocument(Documents* doc);
+		~Library_Manager() {
+			for (auto x : doc_lists) {
+				delete x;
+			}
+		}
 };

@@ -1,0 +1,4 @@
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex3/build/CMakeFiles/student_manager.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex3/build/CMakeFiles/main.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex3/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex3/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,5 @@
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex4/build/CMakeFiles/main.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex4/build/CMakeFiles/house_hold.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex4/build/CMakeFiles/manage_residential_area.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex4/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex4/build/CMakeFiles/ZERO_CHECK.dir

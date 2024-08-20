@@ -1,0 +1,4 @@
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex5/build/CMakeFiles/Hotel_Manager.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex5/build/CMakeFiles/main.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex5/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex5/build/CMakeFiles/ZERO_CHECK.dir

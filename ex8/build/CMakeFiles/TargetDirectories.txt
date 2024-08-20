@@ -1,0 +1,6 @@
+/home/tomccd/Documents/Code/C++/exercise/ex8/build/CMakeFiles/Library_Manager.dir
+/home/tomccd/Documents/Code/C++/exercise/ex8/build/CMakeFiles/Student.dir
+/home/tomccd/Documents/Code/C++/exercise/ex8/build/CMakeFiles/Ticket.dir
+/home/tomccd/Documents/Code/C++/exercise/ex8/build/CMakeFiles/main.dir
+/home/tomccd/Documents/Code/C++/exercise/ex8/build/CMakeFiles/edit_cache.dir
+/home/tomccd/Documents/Code/C++/exercise/ex8/build/CMakeFiles/rebuild_cache.dir

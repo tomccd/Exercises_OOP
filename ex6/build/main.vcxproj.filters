@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\hoang\source\repos\prac_oop1\Exercises_OOP\ex6\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\hoang\source\repos\prac_oop1\Exercises_OOP\ex6\header\Class.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hoang\source\repos\prac_oop1\Exercises_OOP\ex6\header\School.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hoang\source\repos\prac_oop1\Exercises_OOP\ex6\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{353B9E03-A9AF-3E2F-9860-02B0C1C32EA5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{9C107E63-F5FC-3F63-B0DD-8BD230CDC6B9}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

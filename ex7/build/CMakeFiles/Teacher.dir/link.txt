@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTeacher.a CMakeFiles/Teacher.dir/src/Teacher.cpp.o
+/usr/bin/ranlib libTeacher.a

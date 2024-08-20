@@ -1,0 +1,5 @@
+/home/tomccd/Documents/Code/C++/exercise/ex7/build/CMakeFiles/Teacher_Manager.dir
+/home/tomccd/Documents/Code/C++/exercise/ex7/build/CMakeFiles/Teacher.dir
+/home/tomccd/Documents/Code/C++/exercise/ex7/build/CMakeFiles/main.dir
+/home/tomccd/Documents/Code/C++/exercise/ex7/build/CMakeFiles/edit_cache.dir
+/home/tomccd/Documents/Code/C++/exercise/ex7/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libQL_SoPhuc.a CMakeFiles/QL_SoPhuc.dir/src/QL_SoPhuc.cpp.o
+/usr/bin/ranlib libQL_SoPhuc.a

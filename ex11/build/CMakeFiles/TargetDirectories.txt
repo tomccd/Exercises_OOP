@@ -1,0 +1,4 @@
+/home/tomccd/Documents/Code/C++/exercise/ex11/build/CMakeFiles/QL_SoPhuc.dir
+/home/tomccd/Documents/Code/C++/exercise/ex11/build/CMakeFiles/main.dir
+/home/tomccd/Documents/Code/C++/exercise/ex11/build/CMakeFiles/edit_cache.dir
+/home/tomccd/Documents/Code/C++/exercise/ex11/build/CMakeFiles/rebuild_cache.dir

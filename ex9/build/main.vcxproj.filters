@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\hoang\source\repos\prac_oop1\Exercises_OOP\ex9\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\hoang\source\repos\prac_oop1\Exercises_OOP\ex9\header\Receipt.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hoang\source\repos\prac_oop1\Exercises_OOP\ex9\header\Receipt_Manager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hoang\source\repos\prac_oop1\Exercises_OOP\ex9\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7EFAD3CD-7A82-3065-BD2A-BF1C6445E028}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E9148F20-5B4C-3C04-949C-1DFD31FD0017}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+^C:\USERS\HOANG\SOURCE\REPOS\PRAC_OOP1\EXERCISES_OOP\EX9\BUILD\CMAKEFILES\86518D1B50CCADBFB25336A64AF0FBF0\GENERATE.STAMP.RULE
+setlocal
+D:\Programs\Cmake\bin\cmake.exe -SC:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex9 -BC:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex9/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex9/build/ex9.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

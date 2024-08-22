@@ -8,7 +8,7 @@ void QL_SoPhuc::display(){
                 std::cout << i << ": " << vct_sophuc[i]->PhanThuc << " + j" << vct_sophuc[i]->PhanAo  << std::endl;
             }
             else{
-                std::cout << i << ": " << vct_sophuc[i]->PhanThuc << " - j" << vct_sophuc[i]->PhanAo << std::endl;
+                std::cout << i << ": " << vct_sophuc[i]->PhanThuc << " - j" << vct_sophuc[i]->PhanAo*(-1) << std::endl;
             }
         }
     }
@@ -22,7 +22,7 @@ void QL_SoPhuc::display(So_Phuc* cplx){
         std::cout << cplx->PhanThuc << " + j" << cplx->PhanAo << std::endl;
     }
     else{
-        std::cout << cplx->PhanThuc << " - j" << cplx->PhanAo << std::endl;
+        std::cout << cplx->PhanThuc << " - j" << cplx->PhanAo*(-1) << std::endl;
     }
     delete(cplx);
 }

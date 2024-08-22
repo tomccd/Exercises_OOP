@@ -1,0 +1,5 @@
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex12/build/CMakeFiles/Vehicle_Classify.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex12/build/CMakeFiles/Vehicle_Manager.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex12/build/CMakeFiles/main.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex12/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex12/build/CMakeFiles/ZERO_CHECK.dir

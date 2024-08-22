@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex12/CMakeLists.txt
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex12/build/CMakeFiles/3.30.2/CMakeCCompiler.cmake
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex12/build/CMakeFiles/3.30.2/CMakeCXXCompiler.cmake
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex12/build/CMakeFiles/3.30.2/CMakeRCCompiler.cmake
+C:/Users/hoang/source/repos/prac_oop1/Exercises_OOP/ex12/build/CMakeFiles/3.30.2/CMakeSystem.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/CMakeCInformation.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/CMakeCXXInformation.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/CMakeGenericSystem.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/CMakeRCInformation.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/Compiler/MSVC-C.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/Compiler/MSVC.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/Platform/Windows-MSVC-C.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/Platform/Windows.cmake
+D:/Programs/Cmake/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake

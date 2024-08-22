@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\hoang\source\repos\prac_oop1\Exercises_OOP\ex12\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\hoang\source\repos\prac_oop1\Exercises_OOP\ex12\header\Vehicle_Classify.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\hoang\source\repos\prac_oop1\Exercises_OOP\ex12\header\Vehicle_Manager.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\hoang\source\repos\prac_oop1\Exercises_OOP\ex12\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{06B3CD5C-C36B-34D0-A0A8-970AA60D463A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CDD6D1C6-592F-3038-9E6C-71AF52CE5165}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

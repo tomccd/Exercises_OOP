@@ -148,6 +148,7 @@ int main() {
 			case 3:
 				std::cout << "\n-----------------------------------\n";
 				std::cout << "Exit\n";
+				return 0;
 
 		}
 	}

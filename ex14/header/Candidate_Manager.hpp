@@ -10,7 +10,7 @@ class Candidate_Manager {
 		int countTypeStudent(std::string type) {
 			int counter = 0;
 			for (auto candidate : list_candidate) {
-				if (candidate->getType() == "GoodStudent") {
+				if (candidate->getType() == type) {
 					counter++;
 				}
 			}

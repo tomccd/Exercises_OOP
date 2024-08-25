@@ -53,6 +53,11 @@ class University{
 
         /*Check the Date is Valid*/
         bool isDateValid(int date, int month, int year);
+        ~University(){
+            for(auto department:list_department){
+                delete(department);
+            }
+        }
 };
 
 #endif

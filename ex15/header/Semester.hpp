@@ -16,6 +16,11 @@ class Semester{
         void add_Result_Report(Result_Report *report);
         bool isIDExisted(std::string _id_student);
         std::string findIdHighestScore() const;
+        ~Semester(){
+            for(auto rs_rp:list_result_report){
+                delete(rs_rp);
+            }
+        }
 };
 
 

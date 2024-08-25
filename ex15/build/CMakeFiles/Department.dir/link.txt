@@ -1,0 +1,2 @@
+/usr/bin/ar qc libDepartment.a CMakeFiles/Department.dir/src/Department.cpp.o
+/usr/bin/ranlib libDepartment.a

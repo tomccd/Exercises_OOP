@@ -1,0 +1,2 @@
+/usr/bin/ar qc libUniversity.a CMakeFiles/University.dir/src/University.cpp.o
+/usr/bin/ranlib libUniversity.a

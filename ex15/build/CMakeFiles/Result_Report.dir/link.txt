@@ -1,0 +1,2 @@
+/usr/bin/ar qc libResult_Report.a CMakeFiles/Result_Report.dir/src/Result_Report.cpp.o
+/usr/bin/ranlib libResult_Report.a

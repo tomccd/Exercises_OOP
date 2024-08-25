@@ -1,0 +1,8 @@
+/home/tomccd/Documents/Code/C++/exercise/ex15/build/CMakeFiles/Result_Report.dir
+/home/tomccd/Documents/Code/C++/exercise/ex15/build/CMakeFiles/Semester.dir
+/home/tomccd/Documents/Code/C++/exercise/ex15/build/CMakeFiles/Student_Classify.dir
+/home/tomccd/Documents/Code/C++/exercise/ex15/build/CMakeFiles/Department.dir
+/home/tomccd/Documents/Code/C++/exercise/ex15/build/CMakeFiles/University.dir
+/home/tomccd/Documents/Code/C++/exercise/ex15/build/CMakeFiles/main.dir
+/home/tomccd/Documents/Code/C++/exercise/ex15/build/CMakeFiles/edit_cache.dir
+/home/tomccd/Documents/Code/C++/exercise/ex15/build/CMakeFiles/rebuild_cache.dir

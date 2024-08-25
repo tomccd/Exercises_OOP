@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSemester.a CMakeFiles/Semester.dir/src/Semester.cpp.o
+/usr/bin/ranlib libSemester.a

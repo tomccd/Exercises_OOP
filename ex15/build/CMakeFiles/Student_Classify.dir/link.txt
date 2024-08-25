@@ -1,0 +1,2 @@
+/usr/bin/ar qc libStudent_Classify.a CMakeFiles/Student_Classify.dir/src/Student_Classify.cpp.o
+/usr/bin/ranlib libStudent_Classify.a

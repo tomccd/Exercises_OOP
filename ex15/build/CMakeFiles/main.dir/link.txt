@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/src/main.cpp.o -o main  libUniversity.a libDepartment.a libSemester.a libResult_Report.a libStudent_Classify.a 
